@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Mrpoopybutthole.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9DC681EBC523A03F01F61066</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B9A1307F5ED2D34E9C58325</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FEA936EC17EB0D8F9BE43DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

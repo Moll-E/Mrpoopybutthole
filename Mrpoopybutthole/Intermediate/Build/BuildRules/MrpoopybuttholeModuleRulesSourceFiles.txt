@@ -1,0 +1,3 @@
+/Users/parker/Documents/Mrpoopybutthole/Mrpoopybutthole/Source/Mrpoopybutthole/Mrpoopybutthole.Build.cs
+/Users/parker/Documents/Mrpoopybutthole/Mrpoopybutthole/Source/Mrpoopybutthole.Target.cs
+/Users/parker/Documents/Mrpoopybutthole/Mrpoopybutthole/Source/MrpoopybuttholeEditor.Target.cs
